@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>1078509</id>
+      <size>1</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-07-31 16:16:02.220957+00:00</created>
+      <updated>2024-07-31 16:16:03.779898+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>0</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>1080590</id>
+          <start>0</start>
+          <stop>0</stop>
+          <url>https://app.cvat.ai/api/jobs/1078509</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>the15</username>
+        <email>kungsun2047@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>meat</name>
+          <color>#fa3253</color>
+          <type>polygon</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>vegetable</name>
+          <color>#66ff66</color>
+          <type>polygon</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>carb</name>
+          <color>#3d3df5</color>
+          <type>polygon</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2024-07-31 16:18:40.696160+00:00</dumped>
+  </meta>
+  <image id="0" name="ข้าวเหนียวไก่ทอด_0.jpeg" width="1108" height="1477">
+  </image>
+</annotations>
