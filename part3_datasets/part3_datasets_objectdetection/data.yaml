@@ -1,0 +1,8 @@
+path: ../datasets/roboflow
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 13
+names: ['Curry_Rice', 'FriedChicken_and_FrenchFried', 'Jajangmyeon', 'Kale_and_CrispyPorkRice', 'MisoRamen', 'SpaghettiwithBasilChicken', 'Steak_pork', 'StickyRicewithFriedChicken', 'Tokbokki', 'Tonkatsu', 'carb', 'meat', 'vegetable']
